@@ -1,0 +1,104 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MergeClient",
+            "request": "launch",
+            "mainClass": "MergeClient",
+            "projectName": "final_TCP_61087b99",
+            "vmArgs": "--module-path \"C:\\Users\\tnhf1\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+
+        },
+        {
+            "type": "java",
+            "name": "MergeServer",
+            "request": "launch",
+            "mainClass": "MergeServer",
+            "projectName": "final_TCP_61087b99",
+            "vmArgs": "--module-path \"C:\\Users\\tnhf1\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+
+        },
+        {
+            "type": "java",
+            "name": "MergeClient",
+            "request": "launch",
+            "mainClass": "MergeClient",
+            "projectName": "final_TCP_dc8b2843",
+            "vmArgs": "--module-path \"C:\\Users\\tnhf1\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "MergeServer",
+            "request": "launch",
+            "mainClass": "MergeServer",
+            "projectName": "final_TCP_dc8b2843",
+            "vmArgs": "--module-path \"C:\\Users\\tnhf1\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "MergeClient",
+            "request": "launch",
+            "mainClass": "MergeClient",
+            "projectName": "final_TCP_b61a3ba4",
+            "vmArgs": "--module-path \"C:\\Users\\tnhf1\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "MergeServer",
+            "request": "launch",
+            "mainClass": "MergeServer",
+            "projectName": "final_TCP_b61a3ba4",
+            "vmArgs": "--module-path \"C:\\Users\\tnhf1\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "MergeClient",
+            "request": "launch",
+            "mainClass": "MergeClient",
+            "projectName": "final_TCP_eded37c8",
+            "vmArgs": "--module-path \"C:\\Users\\tnhf1\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "MergeServer",
+            "request": "launch",
+            "mainClass": "MergeServer",
+            "projectName": "final_TCP_eded37c8",
+            "vmArgs": "--module-path \"C:\\Users\\tnhf1\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MergeClient",
+            "request": "launch",
+            "mainClass": "MergeClient",
+            "projectName": "merge_ae1efa88",
+            "vmArgs": "--module-path \"C:\\Users\\tnhf1\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "MergeServer",
+            "request": "launch",
+            "mainClass": "MergeServer",
+            "projectName": "merge_ae1efa88",
+            "vmArgs": "--module-path \"C:\\Users\\tnhf1\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "merge_ae1efa88",
+            "vmArgs": "--module-path \"C:\\Users\\tnhf1\\javafx-sdk-20.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

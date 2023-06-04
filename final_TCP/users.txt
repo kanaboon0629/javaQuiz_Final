@@ -1,0 +1,3 @@
+kanako,a,2
+nanako,b,2
+keiko,c,1

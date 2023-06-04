@@ -1,0 +1,2 @@
+kanako,aaa,34
+nanako,bbb,6
